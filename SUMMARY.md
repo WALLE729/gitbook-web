@@ -2,6 +2,7 @@
 
   * [介绍](README.md)
   * [javaScript 基础](JavaScriptBasic/本章介绍.md)
+        本章主要梳理一些JS基础
       * [原型和原型链](JavaScriptBasic/原型和原型链.md)
       * [检索实操](ch0/RepSearchPractice.md)
       * [基础任务](ch0/RepTaskBasic.md)
