@@ -1,6 +1,13 @@
  # Summary
 
-  * [Introduction](README.md)
+  * [介绍](README.md)
+  * [javaScript 基础](JavaScriptBasic/本章介绍.md)
+      * [原型和原型链](JavaScriptBasic/原型和原型链.md)
+      * [检索实操](ch0/RepSearchPractice.md)
+      * [基础任务](ch0/RepTaskBasic.md)
+      * [进阶任务](ch0/RepTaskAdvanced.md)
+      * [个人教程](ch0/handbook.md)
+      * [测试添加](ch0/handbook2.md)
   * [预备周：基于认知科学的信息训练法](ch0/preface.md)
       * [检索实操](ch0/RepSearchPractice.md)
       * [基础任务](ch0/RepTaskBasic.md)_
